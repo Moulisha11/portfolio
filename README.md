@@ -9,6 +9,22 @@ I am a passionate data science enthusiast on the path to becoming a seasoned dat
 - [LinkedIn](https://www.linkedin.com/in/moulisha-r-240679228/)
 - Phone: 703-625-5518
 
+## Technical Skills
+
+**Methodologies**:	Agile/SCRUM, SDLC, Waterfall
+**Programming**:	Python, R, SQL, SAS, Java, PL/SQL, HTML, JavaScript 
+**Machine learning**:	Linear & Logistic Regression, K-Means, Decision Tree, Random Forest
+**ETL Tools**:	Informatica, IBM Infosphere
+**Data Visualization**:	Microsoft Excel, Power BI, Tableau, QlikView
+**Databases**:	MySQL, MS SQL Server, PostgreSQL, MongoDB Redshift, Snowflake, Databricks 
+**Cloud Technologies**:	Microsoft Azure, AWS, Oracle Cloud
+**Version Control**:	Git, Azure DevOps
+
+
+## Education
+
+- **Masters in Computer and Information Science** - George Mason University, 2023
+- **Bachelors in Computer Science and Engineering** - Matrusri Engineering College, Hyderabad,2020
 
 ## Professional Experience
 
@@ -27,11 +43,6 @@ Jan 2019 – July 2021
 - Rapidly resolved data correction issues, maintaining a 90% client satisfaction rate.
 - Streamlined data optimization efforts, reducing processing time by 30%.
 - Expanded infrastructure capabilities with Amazon AWS S3 and RDS support.
-
-## Education
-
-- **Masters in Computer and Information Science** - George Mason University, 2023
-- **Bachelors in Computer Science and Engineering** - Matrusri Engineering College, Hyderabad,2020
 
 ## Projects
 
@@ -67,18 +78,16 @@ Jan 2019 – July 2021
 
 ## Certifications
 
-- [Databases and SQL for Data Science with Python] (https://coursera.org/verify/47S38TRTTLQB)
-- [Linux Commands and Shell Scripting] (https://coursera.org/verify/2H9BKNDDYKZW)
-- [ETL and Data Pipelines with Shell, Airflow and Kafka] (https://coursera.org/verify/AX8XLNZA6D8B)
-- [Data Warehousing and BI Analytics] (https://coursera.org/verify/SXXW8RGJP4ZV)
-- [Google Data Analytics Specialization] (https://www.coursera.org/account/accomplishments/specialization/certificate/DH6ZYPLW9BRH)
+- [Databases and SQL for Data Science with Python](https://coursera.org/verify/47S38TRTTLQB)
+- [Linux Commands and Shell Scripting](https://coursera.org/verify/2H9BKNDDYKZW)
+- [ETL and Data Pipelines with Shell, Airflow and Kafka](https://coursera.org/verify/AX8XLNZA6D8B)
+- [Data Warehousing and BI Analytics](https://coursera.org/verify/SXXW8RGJP4ZV)
+- [Google Data Analytics Specialization](https://www.coursera.org/account/accomplishments/specialization/certificate/DH6ZYPLW9BRH)
 
 ## Publications
 
-- A Survey on Emerging Technologies (RTOS) in Healthcare Devices, Challenges and Future Trends [download]
- (https://www.dropbox.com/scl/fi/cngsnj448q72v7o4c1667/Survey_Paper_Final.pdf?rlkey=tdoo5dyv1lumvs80040ne172r&dl=0)https://www.dropbox.com/scl/fi/cngsnj448q72v7o4c1667/Survey_Paper_Final.pdf?rlkey=tdoo5dyv1lumvs80040ne172r&dl=0)
+- A Survey on Emerging Technologies (RTOS) in Healthcare Devices, Challenges and Future Trends [download](https://www.dropbox.com/scl/fi/cngsnj448q72v7o4c1667/Survey_Paper_Final.pdf?rlkey=tdoo5dyv1lumvs80040ne172r&dl=0)https://www.dropbox.com/scl/fi/cngsnj448q72v7o4c1667/Survey_Paper_Final.pdf?rlkey=tdoo5dyv1lumvs80040ne172r&dl=0)
   
-- Color Recognition Algorithm for Banana Ripeness Classification [download]
-  (https://www.dropbox.com/scl/fi/fnv14ux2izczrzm1nrwq8/Color_recognition_model_documentation.docx?rlkey=f9s6l4upmjpcmydr1ou3ngjt8&dl=0)https://www.dropbox.com/scl/fi/fnv14ux2izczrzm1nrwq8/Color_recognition_model_documentation.docx?rlkey=f9s6l4upmjpcmydr1ou3ngjt8&dl=0)
+- Color Recognition Algorithm for Banana Ripeness Classification [download](https://www.dropbox.com/scl/fi/fnv14ux2izczrzm1nrwq8/Color_recognition_model_documentation.docx?rlkey=f9s6l4upmjpcmydr1ou3ngjt8&dl=0)https://www.dropbox.com/scl/fi/fnv14ux2izczrzm1nrwq8/Color_recognition_model_documentation.docx?rlkey=f9s6l4upmjpcmydr1ou3ngjt8&dl=0)
 
 
