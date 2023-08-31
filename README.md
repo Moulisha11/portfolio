@@ -1,6 +1,5 @@
 # Moulisha Reddimasu - Data Science Portfolio
 
-[Profile Picture]
 ## About Me
 
 I am a passionate data science enthusiast on the path to becoming a seasoned data professional. My journey in the world of data has been marked by a dedication to continuous learning and a commitment to translating data into actionable insights. I thrive on challenges, enjoy solving complex problems, and am always eager to explore emerging technologies in the data science field.
