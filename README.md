@@ -8,7 +8,7 @@ I am a passionate data science enthusiast on the path to becoming a seasoned dat
 
 - **Location**: Houston, TX
 - **Email**: mreddimasu@gmail.com
-- [LinkedIn]([https://www.linkedin.com/in/moulisha-r-240679228/])
+- [LinkedIn](https://www.linkedin.com/in/moulisha-r-240679228/)
 - Phone: 703-625-5518
 
 
