@@ -23,12 +23,12 @@ I am a passionate data science enthusiast on the path to becoming a seasoned dat
 
 ## Education
 
-- **Masters in Computer and Information Science** - George Mason University, 2023
-- **Bachelors in Computer Science and Engineering** - Matrusri Engineering College, Hyderabad,2020
+- **MS | Computer and Information Science** - George Mason University, 2023
+- **BS | in Computer Science and Engineering** - Matrusri Engineering College, Hyderabad,2020
 
 ## Professional Experience
 
-### Data Analyst at Unum, TX
+### Data Analyst at Unum, TX 
 Feb 2023 - Current
 
 - Spearheaded end-to-end data management using Agile methodology.
