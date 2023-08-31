@@ -1,4 +1,4 @@
-# Moulisha Reddimasu - Data Science Portfolio
+# Moulisha Reddimasu - Portfolio
 
 ## About Me
 
