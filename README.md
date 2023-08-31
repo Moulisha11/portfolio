@@ -1,13 +1,13 @@
 # Moulisha Reddimasu - Data Science Portfolio
 
-![Profile Picture](link-to-your-profile-picture)
+[Profile Picture](https://www.dropbox.com/scl/fi/gv6mgeqdkl90v31qezyn2/1692976578992.jpg?rlkey=p3oz16lzlc5s7jft9ickn0iqm&dl=0)
 
 ## About Me
 
 I am a passionate data science enthusiast on the path to becoming a seasoned data professional. My journey in the world of data has been marked by a dedication to continuous learning and a commitment to translating data into actionable insights. I thrive on challenges, enjoy solving complex problems, and am always eager to explore emerging technologies in the data science field.
 
 - **Location**: Houston, TX
-- **Email**: mreddimasu@gmail.com
+- mreddimasu@gmail.com
 - [LinkedIn](https://www.linkedin.com/in/moulisha-r-240679228/)
 - Phone: 703-625-5518
 
