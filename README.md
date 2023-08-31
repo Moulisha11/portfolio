@@ -86,8 +86,8 @@ Jan 2019 – July 2021
 
 ## Publications
 
-- A Survey on Emerging Technologies (RTOS) in Healthcare Devices, Challenges and Future Trends [download](https://www.dropbox.com/scl/fi/cngsnj448q72v7o4c1667/Survey_Paper_Final.pdf?rlkey=tdoo5dyv1lumvs80040ne172r&dl=0)https://www.dropbox.com/scl/fi/cngsnj448q72v7o4c1667/Survey_Paper_Final.pdf?rlkey=tdoo5dyv1lumvs80040ne172r&dl=0)
+- A Survey on Emerging Technologies (RTOS) in Healthcare Devices, Challenges and Future Trends[download](https://www.dropbox.com/scl/fi/cngsnj448q72v7o4c1667/Survey_Paper_Final.pdf?rlkey=tdoo5dyv1lumvs80040ne172r&dl=0)https://www.dropbox.com/scl/fi/cngsnj448q72v7o4c1667/Survey_Paper_Final.pdf?rlkey=tdoo5dyv1lumvs80040ne172r&dl=0)
   
-- Color Recognition Algorithm for Banana Ripeness Classification [download](https://www.dropbox.com/scl/fi/fnv14ux2izczrzm1nrwq8/Color_recognition_model_documentation.docx?rlkey=f9s6l4upmjpcmydr1ou3ngjt8&dl=0)https://www.dropbox.com/scl/fi/fnv14ux2izczrzm1nrwq8/Color_recognition_model_documentation.docx?rlkey=f9s6l4upmjpcmydr1ou3ngjt8&dl=0)
+- Color Recognition Algorithm for Banana Ripeness Classification[download](https://www.dropbox.com/scl/fi/fnv14ux2izczrzm1nrwq8/Color_recognition_model_documentation.docx?rlkey=f9s6l4upmjpcmydr1ou3ngjt8&dl=0)https://www.dropbox.com/scl/fi/fnv14ux2izczrzm1nrwq8/Color_recognition_model_documentation.docx?rlkey=f9s6l4upmjpcmydr1ou3ngjt8&dl=0)
 
 
