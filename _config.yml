@@ -3,6 +3,7 @@ title: Moulisha Reddimasu
 description: Data Science Enthusiast
 show_downloads: true
 theme: "minimal-mistakes-jekyll"
+remote_theme: mistakes/minimal-mistakes
 minimal_mistakes_skin: "mint"
 plugins:
   - jekyll-include-cache
