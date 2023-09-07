@@ -2,5 +2,11 @@ title: Moulisha Reddimasu
 #logo: /assets/profilepicture.jpg
 description: Data Science Enthusiast
 show_downloads: true
-theme: jekyll-theme-minimal
+theme: jekyll-theme-minimal, mint
+text_layout: centered
 
+# Add your location, email, phone number, and LinkedIn URL here
+location: Houston, TX
+email: mreddimasu@gmail.com
+phone: 703-625-5518
+linkedin: https://www.linkedin.com/in/moulisha-r-240679228/
