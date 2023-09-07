@@ -2,4 +2,5 @@ title: Moulisha Reddimasu
 #logo: /assets/profilepicture.jpg
 description: Data Science Enthusiast
 show_downloads: true
-theme: jekyll-theme-minimal
+theme : "minimal-mistakes-jekyll"
+minimal_mistakes_skin : "mint"
