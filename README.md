@@ -4,35 +4,21 @@
 
 I am a passionate data science enthusiast on the path to becoming a seasoned data professional. My journey in the world of data has been marked by a dedication to continuous learning and a commitment to translating data into actionable insights. I thrive on challenges, enjoy solving complex problems, and am always eager to explore emerging technologies in the data science field.
 
-- **Location**: Houston, TX
-- mreddimasu@gmail.com
-- [LinkedIn](https://www.linkedin.com/in/moulisha-r-240679228/)
-- Phone: 703-625-5518
-
-
 ## Technical Skills
 
 **Methodologies**:	Agile/SCRUM, SDLC, Waterfall
-
 **Programming**:	Python, R, SQL, SAS, Java, Excel VBA, PL/SQL, HTML, JavaScript 
-
 **Machine learning**:	Linear & Logistic Regression, K-Means, Decision Tree, Random Forest
-
 **ETL Tools**:	Power Query, Informatica, IBM Infosphere
-
 **Data Visualization**:	Microsoft Excel, Power BI, Tableau, QlikView
-
 **Databases**:	MySQL, MS SQL Server, MS, Access, PostgreSQL, MongoDB Redshift, Snowflake, Databricks 
-
 **Cloud Technologies**:	Microsoft Azure, AWS, Oracle Cloud, Google Cloud Platform
-
 **Version Control**:	Git, Azure DevOps
-
 
 ## Education
 
-- **MS | Computer and Information Science** - George Mason University, 2023
-- **BS | in Computer Science and Engineering** - Matrusri Engineering College, Hyderabad,2020
+- MS | Computer and Information Science - George Mason University, 2023
+- BS | in Computer Science and Engineering - Matrusri Engineering College, Hyderabad,2020
 
 ## Professional Experience
 
