@@ -9,15 +9,16 @@ I am a passionate data science enthusiast on the path to becoming a seasoned dat
 - [LinkedIn](https://www.linkedin.com/in/moulisha-r-240679228/)
 - Phone: 703-625-5518
 
+
 ## Technical Skills
 
 **Methodologies**:	Agile/SCRUM, SDLC, Waterfall
-**Programming**:	Python, R, SQL, SAS, Java, PL/SQL, HTML, JavaScript 
+**Programming**:	Python, R, SQL, SAS, Java, Excel VBA, PL/SQL, HTML, JavaScript 
 **Machine learning**:	Linear & Logistic Regression, K-Means, Decision Tree, Random Forest
-**ETL Tools**:	Informatica, IBM Infosphere
+**ETL Tools**:	Power Query, Informatica, IBM Infosphere
 **Data Visualization**:	Microsoft Excel, Power BI, Tableau, QlikView
-**Databases**:	MySQL, MS SQL Server, PostgreSQL, MongoDB Redshift, Snowflake, Databricks 
-**Cloud Technologies**:	Microsoft Azure, AWS, Oracle Cloud
+**Databases**:	MySQL, MS SQL Server, MS, Access, PostgreSQL, MongoDB Redshift, Snowflake, Databricks 
+**Cloud Technologies**:	Microsoft Azure, AWS, Oracle Cloud, Google Cloud Platform
 **Version Control**:	Git, Azure DevOps
 
 
@@ -28,53 +29,42 @@ I am a passionate data science enthusiast on the path to becoming a seasoned dat
 
 ## Professional Experience
 
-### Data Analyst at Unum, TX 
-Feb 2023 - Current
+I am a seasoned Data Analyst with a strong 3+ year track record of enhancing data processes and delivering high-impact solutions. In my current role as a **Data Analyst** at **Unum**, I've led end-to-end data management, optimized ETL pipelines, and bolstered data security through Python scripting. I'm proficient in a range of databases, including Oracle, MySQL, MS Access and SQL Server, and have leveraged Azure Data Factory for efficient data transformation. Additionally, I've applied advanced statistical techniques, boosting data accuracy by 40%. 
 
-- Spearheaded end-to-end data management using Agile methodology.
-- Streamlined ETL pipelines with Informatica, reducing errors by 50%.
-- Enhanced data security with Python scripts and SQL vulnerability identification.
-- Proficiently utilized Azure Data Factory for efficient data transformation.
-
-### Data Analyst at Exert Infotech, India
-Jan 2019 – July 2021
-
-- Leveraged Power BI and DAX for enhanced data manipulation.
-- Rapidly resolved data correction issues, maintaining a 90% client satisfaction rate.
-- Streamlined data optimization efforts, reducing processing time by 30%.
-- Expanded infrastructure capabilities with Amazon AWS S3 and RDS support.
+As an **Analyst** at **Exert Infotech**, I excelled in Power BI, driving report accuracy and client satisfaction. I streamlined ETL transformations, improved data connectivity, and saved valuable time by optimizing MySQL queries. My commitment to excellence extends to rigorous testing and cloud infrastructure enhancement, making me a valuable asset in data-driven environments.
 
 ## Projects
 
-### Data Visualization in Collaborative Immersive Analytics | George Mason University
-
-- Developed an immersive interaction framework in Unity using the IATK toolkit.
-- Led collaborative data collection and filtering.
-- Analyzed diverse data from social media, sensors, and finance.
-
-### Pacman Game using AI | George Mason University
-
-- Developed AI algorithms, including Q-learning, to enhance Pacman game agent's decision-making.
-- Utilized Python libraries such as NumPy and Pandas.
-- Effectively visualized algorithm performance using Matplotlib.
-
-### Color Recognition Model | Matrusri Engineering College, Hyderabad
-
-- Employed neural network models to develop a color recognition system for fruit ripeness detection.
-- Achieved an impressive 89% accuracy rate.
-- Published research outcomes in the UGC journal.
-
-### Azure ML Studio Machine Learning Pipelines | Your Name
+### [Azure ML Studio Machine Learning Pipelines](https://www.dropbox.com/scl/fi/84rdeelygwfwtrgqqthg9/Machine-Learning-Pipeline-with-Azure-ML-Studio.pdf?rlkey=4d0usa3ig5hk9w595gq0qlb9f&dl=0) 
 
 - Executed an end-to-end machine learning project using Azure ML Studio.
 - Trained a Two-Class Boosted Decision Tree model and deployed it as an Azure web service.
-- Demonstrated the practical application of machine learning pipelines.
+- Demonstrated practical application of machine learning pipelines.
 
-### Banknote Authentication Enhancement | Your Name
+### [Banknote Authentication Enhancement](https://www.dropbox.com/scl/fi/ex8ho3dxli17byf14v34p/Banknote-Authentication.pdf?rlkey=8rbs7uo1f3zteyioomuo27kam&dl=0)
 
-- Developed and implemented a banknote authentication model leveraging K-Means clustering.
-- Conducted comprehensive data analysis and created captivating visualizations.
-- Proposed integration to enhance banknote security.
+- Developed and implemented a banknote authentication model utilizing K-Means clustering.
+- Conducted comprehensive data analysis and created compelling visualizations.
+- Proposed integration for enhanced banknote security.
+
+### [Data Visualization in Collaborative Immersive Analytics](https://www.dropbox.com/scl/fi/0fq0r7tpqkoxt7pfma8yg/Collaborative-Imeersive-Analytics.pdf?rlkey=ot3q0gscxo3lqslg031af9zh9&dl=0)
+
+- Created an immersive interaction framework in Unity with the IATK toolkit.
+- Led collaborative data collection and filtering efforts.
+- Analyzed diverse data from social media, sensors, and finance, showcasing data interpretation skills.
+
+### [Pacman Game using AI](https://www.dropbox.com/scl/fi/wj7mpidwo8xvjfo99nt2t/Pacman-Game-using-AI.pdf?rlkey=e6y3jkh7arlix9sfcrry2ybua&dl=0)
+
+- Developed AI algorithms, including Q-learning, to improve Pacman game agent's decision-making.
+- Utilized Python libraries such as NumPy and Pandas for efficient data manipulation.
+- Effectively visualized algorithm performance using Matplotlib, highlighting data visualization abilities.
+
+### [Color Recognition Model](https://www.dropbox.com/scl/fi/4nxhjy3srr7b5g3te2l4l/Color_recognition_model.pdf?rlkey=1kyzc1cfk8isl85eqfb8735bp&dl=0)
+
+- Utilized neural network models, leveraging TensorFlow and Keras, to create a color recognition system for fruit ripeness detection.
+- Achieved an impressive 89% accuracy rate in model predictions.
+- Published research outcomes in the UGC journal, demonstrating effective communication of technical findings.
+
 
 ## Certifications
 
@@ -86,8 +76,8 @@ Jan 2019 – July 2021
 
 ## Publications
 
-- A Survey on Emerging Technologies (RTOS) in Healthcare Devices, Challenges and Future Trends [Check it out](https://www.dropbox.com/scl/fi/cngsnj448q72v7o4c1667/Survey_Paper_Final.pdf?rlkey=tdoo5dyv1lumvs80040ne172r&dl=0)
+- A Survey on Emerging Technologies (RTOS) in Healthcare Devices, Challenges and Future Trends [Check it out!](https://www.dropbox.com/scl/fi/cngsnj448q72v7o4c1667/Survey_Paper_Final.pdf?rlkey=tdoo5dyv1lumvs80040ne172r&dl=0)
   
-- Color Recognition Algorithm for Banana Ripeness Classification [Check it out](https://www.dropbox.com/scl/fi/fnv14ux2izczrzm1nrwq8/Color_recognition_model_documentation.docx?rlkey=f9s6l4upmjpcmydr1ou3ngjt8&dl=0)
+- Color Recognition Model for Banana Ripeness Classification [Check it out!](https://www.dropbox.com/scl/fi/268f50x5fieqh8l3ukytq/color_recgonition.pdf?rlkey=t90nhk08m4rs8qu47k99d1wyy&dl=0)
 
 
