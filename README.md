@@ -20,8 +20,8 @@ I am a passionate data science enthusiast on the path to becoming a seasoned dat
 
 ## Education
 
-MS | Computer and Information Science - George Mason University, 2023
-BS | in Computer Science and Engineering - Matrusri Engineering College, Hyderabad,2020
+- MS | Computer and Information Science - George Mason University, 2023
+- BS | in Computer Science and Engineering - Matrusri Engineering College, Hyderabad,2020
 
 ## Professional Experience
 
