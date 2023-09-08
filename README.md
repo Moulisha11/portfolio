@@ -20,7 +20,7 @@ I am a passionate data science enthusiast on the path to becoming a seasoned dat
 ## Education
 
 - Master's in Computer Science - George Mason University, 2023
-- Bachelor's in Computer Science and Engineering - Matrusri Engineering College,2020
+- Bachelor's in Computer Science and Engineering - Matrusri Engineering College, 2020
 
 ## Professional Experience
 
