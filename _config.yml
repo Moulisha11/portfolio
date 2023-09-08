@@ -1,7 +1,6 @@
 title: Moulisha Reddimasu
-#logo: /assets/profilepicture.jpg
 description: Data Science Enthusiast
 show_downloads: true
 theme: jekyll-theme-cayman
 text_layout: centered
-
+nav_header: _data/navigation.yml # Specify the path to your custom navigation YAML file.
