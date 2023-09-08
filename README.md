@@ -17,8 +17,8 @@ I am a passionate data science enthusiast on the path to becoming a seasoned dat
 
 ## Education
 
-- MS | Computer and Information Science - George Mason University, 2023
-- BS | in Computer Science and Engineering - Matrusri Engineering College, Hyderabad,2020
+  MS | Computer and Information Science - George Mason University, 2023
+  BS | in Computer Science and Engineering - Matrusri Engineering College, Hyderabad,2020
 
 ## Professional Experience
 
@@ -27,6 +27,11 @@ I am a seasoned Data Analyst with a strong 3+ year track record of enhancing dat
 As an **Analyst** at **Exert Infotech**, I excelled in Power BI, driving report accuracy and client satisfaction. I streamlined ETL transformations, improved data connectivity, and saved valuable time by optimizing MySQL queries. My commitment to excellence extends to rigorous testing and cloud infrastructure enhancement, making me a valuable asset in data-driven environments.
 
 ## Projects
+
+### [Forecast bikeshare demand using time series models in R](https://www.dropbox.com/scl/fi/cvlp1nmibj4wj0423n491/Forecast_bikeshare_demand.pdf?rlkey=vmj86pmg306mtxsoyyh3g6k8q&dl=0)
+- Leveraged automated and manual time series models to precisely predict daily bike rental demand.
+- Improved resource allocation and service planning with precise forecasts, optimizing bike-share operations.
+- Meticulous data exploration, robust modeling, and emphasis on stationarity and seasonality contributed to successful forecasting in this project.
 
 ### [Azure ML Studio Machine Learning Pipelines](https://www.dropbox.com/scl/fi/84rdeelygwfwtrgqqthg9/Machine-Learning-Pipeline-with-Azure-ML-Studio.pdf?rlkey=4d0usa3ig5hk9w595gq0qlb9f&dl=0) 
 
