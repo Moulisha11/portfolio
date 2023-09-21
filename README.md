@@ -12,10 +12,10 @@ I am a passionate data science enthusiast on the path to becoming a seasoned dat
 
 - **Methodologies**:	Agile/SCRUM, SDLC, Waterfall
 - **Programming**:	Python, R, SQL, SAS, Java, Excel VBA, PL/SQL, HTML, JavaScript 
-- **Machine learning**:	Linear & Logistic Regression, K-Means, Decision Tree, Random Forest
+- **Machine learning**:	Linear & Logistic Regression, K-Means, Decision Tree, Random Forest, Gradient Boosting
 - **ETL Tools**:	Power Query, Informatica, IBM Infosphere
-- **Data Visualization**:	Microsoft Excel, Power BI, Tableau, QlikView
-- **Databases**:	MySQL, MS SQL Server, MS, Access, PostgreSQL, MongoDB Redshift, Snowflake, Databricks 
+- **Data Visualization**:	Microsoft Excel, Power BI, Tableau, QlikView, IBM Cognos, Looker, Qlik Sense, Google Analytics, SAP BusinessObjects, Google Sheets
+- **Databases**:	MySQL, MS SQL Server, MS Access, PostgreSQL, MongoDB, Redshift, Snowflake, Databricks 
 - **Cloud Technologies**:	Microsoft Azure, AWS, Oracle Cloud, Google Cloud Platform
 - **Version Control**:	Git, Azure DevOps
 
@@ -28,10 +28,17 @@ I am a passionate data science enthusiast on the path to becoming a seasoned dat
 
 I am a seasoned Data Analyst with a strong 3+ year track record of enhancing data processes and delivering high-impact solutions. In my current role as a **Data Analyst** at **Unum**, I've led end-to-end data management, optimized ETL pipelines, and bolstered data security through Python scripting. I'm proficient in a range of databases, including Oracle, MySQL, MS Access and SQL Server, and have leveraged Azure Data Factory for efficient data transformation. Additionally, I've applied advanced statistical techniques, boosting data accuracy by 40%. 
 
+As an **Analyst** - Event Services Coordinator at **George Mason University**, I expertly coordinated and executed diverse university events, achieving a perfect success rate. Through strong collaboration, problem-solving, and efficient documentation, I enhanced event planning, fostered positive attendee experiences, and contributed significantly to the university's reputation for delivering top-notch events to diverse audiences.
+
 As an **Analyst** at **Exert Infotech**, I excelled in Power BI, driving report accuracy and client satisfaction. I streamlined ETL transformations, improved data connectivity, and saved valuable time by optimizing MySQL queries. My commitment to excellence extends to rigorous testing and cloud infrastructure enhancement, making me a valuable asset in data-driven environments.
 
 ## Projects
 
+### [Stroke Prediction Model and Deployment with Shiny](https://www.dropbox.com/scl/fi/3dtvuexqvhopdfrbvt7ke/Store_prediction_model.pdf?rlkey=sfg0ewecb7g05okwevy0140wb&dl=0)
+- Developed a comprehensive R-based solution for predicting stroke risk by building, training, and evaluating a Random Forest classification model. 
+- Created an interactive Shiny web application that enables users to input patient data and receive real-time stroke risk predictions. 
+- Demonstrated the potential of the project in the healthcare domain, offering early intervention possibilities and improved healthcare outcomes.
+  
 ### [Forecast bikeshare demand using time series models in R](https://www.dropbox.com/scl/fi/cvlp1nmibj4wj0423n491/Forecast_bikeshare_demand.pdf?rlkey=vmj86pmg306mtxsoyyh3g6k8q&dl=0)
 - Leveraged automated and manual time series models to precisely predict daily bike rental demand.
 - Improved resource allocation and service planning with precise forecasts, optimizing bike-share operations.
