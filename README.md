@@ -50,7 +50,7 @@ As an **Analyst** at **Exert Infotech**, I excelled in Power BI, driving report 
 - Trained a Two-Class Boosted Decision Tree model and deployed it as an Azure web service.
 - Demonstrated practical application of machine learning pipelines.
 
-### [Banknote Authentication Enhancement](https://www.dropbox.com/scl/fi/ex8ho3dxli17byf14v34p/Banknote-Authentication.pdf?rlkey=8rbs7uo1f3zteyioomuo27kam&dl=0)
+### [Banknote Authentication Enhancement](https://www.dropbox.com/scl/fi/v3ge13mfkbjdahlfp7sk4/BankNote-Authentication.pdf?rlkey=ukbsqic6ej59vc3g3pzy58ei2&dl=0)
 
 - Developed and implemented a banknote authentication model utilizing K-Means clustering.
 - Conducted comprehensive data analysis and created compelling visualizations.
