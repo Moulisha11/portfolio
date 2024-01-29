@@ -68,12 +68,6 @@ Currently, as a **Database Analyst at Guardian Fueling Technologies**, my respon
 - Utilized Python libraries such as NumPy and Pandas for efficient data manipulation.
 - Effectively visualized algorithm performance using Matplotlib, highlighting data visualization abilities.
 
-### [Color Recognition Model](https://www.dropbox.com/scl/fi/4nxhjy3srr7b5g3te2l4l/Color_recognition_model.pdf?rlkey=1kyzc1cfk8isl85eqfb8735bp&dl=0)
-
-- Utilized neural network models, leveraging TensorFlow and Keras, to create a color recognition system for fruit ripeness detection.
-- Achieved an impressive 89% accuracy rate in model predictions.
-- Published research outcomes in the UGC journal, demonstrating effective communication of technical findings.
-
 
 ## Certifications
 
