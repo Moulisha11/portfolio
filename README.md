@@ -11,11 +11,11 @@ I have a strong passion for data science and am on my way to becoming an experie
 ## Technical Skills
 
 - **Methodologies**:	Agile/SCRUM, SDLC, Waterfall
-- **Programming**:	Python, R, SQL, SAS, Java, Excel VBA, HTML, JavaScript 
+- **Programming**:	Python, R, SQL, SAS, Java, C, C++, Excel VBA, HTML, JavaScript 
 - **Machine learning**:	Linear & Logistic Regression, K-Means, Decision Tree, Random Forest, Gradient Boosting
 - **ETL Tools**:	Power Query, Informatica
 - **Data Visualization**:	Microsoft Excel, Power BI, Tableau, QlikView, Google Analytics, SAP BusinessObjects, Google Sheets
-- **Databases**:	MS SQL Server, MS Access, PostgreSQL, MongoDB, Snowflake, Databricks 
+- **Databases**:	MySql, MS SQL Server, MS Access, PostgreSQL, MongoDB, Snowflake, Databricks 
 - **Cloud Technologies**:	Microsoft Azure, AWS, Google Cloud Platform
 - **Version Control**:	Git, Azure DevOps
 
