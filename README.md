@@ -3,20 +3,20 @@
 
 ## About Me
 
-I am a passionate data science enthusiast on the path to becoming a seasoned data professional. My journey in the world of data has been marked by a dedication to continuous learning and a commitment to translating data into actionable insights. I thrive on challenges, enjoy solving complex problems, and am always eager to explore emerging technologies in the data science field.
+I have a strong passion for data science and am on my way to becoming an experienced professional in the field. My experience with data has been characterized by a continuous pursuit of knowledge and a focus on turning data into practical insights. I find joy in tackling challenging issues, love delving into complex problems, and am always keen to delve into the latest advancements in data science field.
 
-- email-  mreddimasu@gmail.com
+- email-  mreddima@gmu.edu
 - [linkedin](https://www.linkedin.com/in/moulisha-r-240679228/)
 
 ## Technical Skills
 
 - **Methodologies**:	Agile/SCRUM, SDLC, Waterfall
-- **Programming**:	Python, R, SQL, SAS, Java, Excel VBA, PL/SQL, HTML, JavaScript 
+- **Programming**:	Python, R, SQL, SAS, Java, Excel VBA, HTML, JavaScript 
 - **Machine learning**:	Linear & Logistic Regression, K-Means, Decision Tree, Random Forest, Gradient Boosting
-- **ETL Tools**:	Power Query, Informatica, IBM Infosphere
-- **Data Visualization**:	Microsoft Excel, Power BI, Tableau, QlikView, IBM Cognos, Looker, Qlik Sense, Google Analytics, SAP BusinessObjects, Google Sheets
-- **Databases**:	MySQL, MS SQL Server, MS Access, PostgreSQL, MongoDB, Redshift, Snowflake, Databricks 
-- **Cloud Technologies**:	Microsoft Azure, AWS, Oracle Cloud, Google Cloud Platform
+- **ETL Tools**:	Power Query, Informatica
+- **Data Visualization**:	Microsoft Excel, Power BI, Tableau, QlikView, Google Analytics, SAP BusinessObjects, Google Sheets
+- **Databases**:	MS SQL Server, MS Access, PostgreSQL, MongoDB, Snowflake, Databricks 
+- **Cloud Technologies**:	Microsoft Azure, AWS, Google Cloud Platform
 - **Version Control**:	Git, Azure DevOps
 
 ## Education
@@ -26,11 +26,11 @@ I am a passionate data science enthusiast on the path to becoming a seasoned dat
 
 ## Professional Experience
 
-I am a seasoned Data Analyst with a strong 3+ year track record of enhancing data processes and delivering high-impact solutions. In my current role as a **Data Analyst** at **Unum**, I've led end-to-end data management, optimized ETL pipelines, and bolstered data security through Python scripting. I'm proficient in a range of databases, including Oracle, MySQL, MS Access and SQL Server, and have leveraged Azure Data Factory for efficient data transformation. Additionally, I've applied advanced statistical techniques, boosting data accuracy by 40%. 
+In my **three-plus years as a Data Analyst**, I've developed a deep passion for data management and analysis. My journey began at Exert Infotech, where I honed my skills in data visualization using Tableau and MS Access. I excelled in utilizing MS Excel for complex data analysis, driving informed decisions and achieving a 90% client satisfaction rate.
 
-As an **Analyst** - Event Services Coordinator at **George Mason University**, I expertly coordinated and executed diverse university events, achieving a perfect success rate. Through strong collaboration, problem-solving, and efficient documentation, I enhanced event planning, fostered positive attendee experiences, and contributed significantly to the university's reputation for delivering top-notch events to diverse audiences.
+My apprenticeship at Unum was a turning point in my career. I adeptly applied Agile methodologies to enhance ETL pipelines, reducing errors by 50%, and bolstered data security with Python scripts. My proficiency in Power BI and Azure Data Factory led to a 40% boost in operational efficiency, evidenced by my work in IBM Cognos.
 
-As an **Analyst** at **Exert Infotech**, I excelled in Power BI, driving report accuracy and client satisfaction. I streamlined ETL transformations, improved data connectivity, and saved valuable time by optimizing MySQL queries. My commitment to excellence extends to rigorous testing and cloud infrastructure enhancement, making me a valuable asset in data-driven environments.
+Currently, as a **Database Analyst at Guardian Fueling Technologies**, my responsibilities encompass overseeing data infrastructure to ensure seamless data handling and analyzing diverse data sources. I write and manage automated data import/export jobs, optimize the databases using SQL Server, write complex queries, and create reports in SSRS. My role also involves leveraging various tools involving Active Directory, applying data modeling techniques, and contributing to monitoring, and backup.
 
 ## Projects
 
