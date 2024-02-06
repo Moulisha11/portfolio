@@ -22,7 +22,7 @@ I have a strong passion for data science and am on my way to becoming an experie
 ## Education
 
 - Master's in Computer Science - George Mason University, 2023
-- Bachelor's in Computer Science and Engineering - Osmania College, 2020
+- Bachelor's in Computer Science and Engineering - Osmania University, 2020
 
 ## Professional Experience
 
