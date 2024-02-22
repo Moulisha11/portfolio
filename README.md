@@ -28,7 +28,7 @@ I have a strong passion for data science and am on my way to becoming an experie
 
 In my **three-plus years as a Data Analyst**, I've developed a deep passion for data management and analysis. My journey began at Exert Infotech, where I honed my skills in data visualization using Tableau and MS Access. I excelled in utilizing MS Excel for complex data analysis, driving informed decisions and achieving a 90% client satisfaction rate.
 
-My apprenticeship at Unum was a turning point in my career. I adeptly applied Agile methodologies to enhance ETL pipelines, reducing errors by 50%, and bolstered data security with Python scripts. My proficiency in Power BI and Azure Data Factory led to a 40% boost in operational efficiency, evidenced by my work in IBM Cognos.
+My apprenticeship at Incrivelsoft was a turning point in my career. I adeptly applied Agile methodologies to enhance ETL pipelines, reducing errors by 50%, and bolstered data security with Python scripts. My proficiency in Power BI and Azure Data Factory led to a 40% boost in operational efficiency, evidenced by my work in IBM Cognos.
 
 Currently, as a **Database Analyst at Guardian Fueling Technologies**, my responsibilities encompass overseeing data infrastructure to ensure seamless data handling and analyzing diverse data sources. I write and manage automated data import/export jobs, optimize the databases using SQL Server, write complex queries, and create reports in SSRS. My role also involves leveraging various tools involving Active Directory, applying data modeling techniques, and contributing to monitoring, and backup.
 
