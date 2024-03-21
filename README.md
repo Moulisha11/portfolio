@@ -39,7 +39,7 @@ Currently, as a **Database Analyst at Guardian Fueling Technologies**, my respon
 - Created an interactive Shiny web application that enables users to input patient data and receive real-time stroke risk predictions. 
 - Demonstrated the potential of the project in the healthcare domain, offering early intervention possibilities and improved healthcare outcomes.
 
-### [DiseaseDetective: Unveiling Hidden Patterns in Health Records]
+### DiseaseDetective: Unveiling Hidden Patterns in Health Records
 - Developed an unsupervised K-Means clustering model to identify patterns in health records, enhancing my healthcare analytics expertise.
 - Improved health risk profiling accuracy through data exploration and model refinement, targeting preventive care.
 - Advanced personal capabilities in health data analytics, establishing a foundational knowledge in predictive healthcare models.
