@@ -38,6 +38,11 @@ Currently, as a **Database Analyst at Guardian Fueling Technologies**, my respon
 - Developed a comprehensive R-based solution for predicting stroke risk by building, training, and evaluating a Random Forest classification model. 
 - Created an interactive Shiny web application that enables users to input patient data and receive real-time stroke risk predictions. 
 - Demonstrated the potential of the project in the healthcare domain, offering early intervention possibilities and improved healthcare outcomes.
+
+### [DiseaseDetective: Unveiling Hidden Patterns in Health Records]
+- Developed an unsupervised K-Means clustering model to identify patterns in health records, enhancing my healthcare analytics expertise.
+- Improved health risk profiling accuracy through data exploration and model refinement, targeting preventive care.
+- Advanced personal capabilities in health data analytics, establishing a foundational knowledge in predictive healthcare models.
   
 ### [Forecast bikeshare demand using time series models in R](https://www.dropbox.com/scl/fi/cvlp1nmibj4wj0423n491/Forecast_bikeshare_demand.pdf?rlkey=vmj86pmg306mtxsoyyh3g6k8q&dl=0)
 - Leveraged automated and manual time series models to precisely predict daily bike rental demand.
