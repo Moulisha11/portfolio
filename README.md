@@ -14,9 +14,9 @@ I have a strong passion for data science and am on my way to becoming an experie
 - **Programming**:	Python, R, SQL, SAS, Java, C, C++, Excel VBA, HTML, JavaScript
       **Python Libraries**: Pandas, Matplotlib, scikit-learn, TensorFlow  
 - **Machine learning**:	Linear & Logistic Regression, K-Means, Decision Tree, Random Forest, Gradient Boosting
-- **ETL Tools**:	Power Query, Informatica
+- **ETL Tools**:	Power Query, Informatica, Azure Data Factory
 - **Data Visualization**:	Microsoft Excel, Power BI, Tableau, QlikView, Google Analytics, SAP BusinessObjects, Google Sheets
-- **Databases**:	MySql, MS SQL Server, MS Access, PostgreSQL, MongoDB, Snowflake
+- **Databases**:	MySql, MS SQL Server, MS Access, PostgreSQL, MongoDB, Snowflake, Databricks
 - **Cloud Technologies**:	Microsoft Azure, AWS, Google Cloud Platform
 - **Version Control**:	Git, Azure DevOps
 
@@ -27,11 +27,11 @@ I have a strong passion for data science and am on my way to becoming an experie
 
 ## Professional Experience
 
-In my **three-plus years as a Data Analyst**, I've developed a deep passion for data management and analysis. My journey began at Exert Infotech, where I honed my skills in data visualization using Tableau and MS Access. I excelled in utilizing MS Excel for complex data analysis, driving informed decisions and achieving a 90% client satisfaction rate.
+In my **Four years as an Analyst**, I've developed a deep passion for data management and analysis. My journey began at Exert Infotech, where I honed my skills in data visualization using Tableau and MS Access. I excelled in utilizing MS Excel for complex data analysis, driving informed decisions and achieving a 90% client satisfaction rate.
 
-My apprenticeship at Incrivelsoft was a turning point in my career. I adeptly applied Agile methodologies to enhance ETL pipelines, reducing errors by 50%, and bolstered data security with Python scripts. My proficiency in Power BI and Azure Data Factory led to a 40% boost in operational efficiency, evidenced by my work in IBM Cognos.
+My apprenticeship at Unum was a turning point in my career. I adeptly applied Agile methodologies to enhance ETL pipelines, reducing errors by 50%, and bolstered data security with Python scripts. My proficiency in Power BI and Azure Data Factory led to a 40% boost in operational efficiency, evidenced by my work in IBM Cognos.
 
-Currently, as a **Database Analyst at Guardian Fueling Technologies**, my responsibilities encompass overseeing data infrastructure to ensure seamless data handling and analyzing diverse data sources. I write and manage automated data import/export jobs, optimize the databases using SQL Server, write complex queries, and create reports in SSRS. My role also involves leveraging various tools involving Active Directory, applying data modeling techniques, and contributing to monitoring, and backup.
+Currently, as a **Database Analyst at Guardian Fueling Technologies**, my responsibilities encompass overseeing data infrastructure to ensure seamless data handling and analyzing diverse data sources. I write and manage automated data import/export jobs, optimize the databases using SQL Server, write complex queries, and create reports in SSRS. I also develop and deploy small-scale applications using Java, Javascript and Python, deployed via Azure, to support internal company needs. My role involves leveraging data modeling techniques and contributing to monitoring, backup, and overall database management, enhancing performance and reliability.
 
 ## Projects
 
