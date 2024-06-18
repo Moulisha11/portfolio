@@ -11,7 +11,7 @@ I have a strong passion for data science and am on my way to becoming an experie
 ## Technical Skills
 
 - **Methodologies**:	Agile/SCRUM, SDLC, Waterfall
-- **Programming**:	Python, R, SQL, SAS, Java, C, C++, Excel VBA, HTML, JavaScript
+- **Programming**:	Python, R, SQL, SAS, Scala, Java, C, C++, Excel VBA, HTML, JavaScript
       **Python Libraries**: Pandas, Matplotlib, scikit-learn, TensorFlow  
 - **Machine learning**:	Linear & Logistic Regression, K-Means, Decision Tree, Random Forest, Gradient Boosting
 - **ETL Tools**:	Power Query, Informatica, Azure Data Factory
@@ -31,7 +31,7 @@ In my **Four years as an Analyst**, I've developed a deep passion for data manag
 
 My apprenticeship at Unum was a turning point in my career. I adeptly applied Agile methodologies to enhance ETL pipelines, reducing errors by 50%, and bolstered data security with Python scripts. My proficiency in Power BI and Azure Data Factory led to a 40% boost in operational efficiency, evidenced by my work in IBM Cognos.
 
-Currently, as a **Database Analyst at Guardian Fueling Technologies**, my responsibilities encompass overseeing data infrastructure to ensure seamless data handling and analyzing diverse data sources. I write and manage automated data import/export jobs, optimize the databases using SQL Server, write complex queries, and create reports in SSRS. I also develop and deploy small-scale applications using Java, Javascript and Python, deployed via Azure, to support internal company needs. My role involves leveraging data modeling techniques and contributing to monitoring, backup, and overall database management, enhancing performance and reliability.
+Currently, as a **Database Analyst at Guardian Fueling Technologies**, my responsibilities encompass overseeing data infrastructure to ensure seamless data handling and analyzing diverse data sources. I write and manage automated data import/export jobs, optimize databases using SQL Server, write complex queries, and create reports in SSRS and Power BI. I also develop and deploy small-scale applications using Java, JavaScript, and Python, SQL, deployed via Azure, to support internal company needs. My role involves leveraging APIs for seamless data integration, utilizing data modeling techniques, and contributing to monitoring, backup, and overall database management, enhancing performance and reliability.
 
 ## Projects
 
