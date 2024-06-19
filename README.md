@@ -8,23 +8,6 @@ I have a strong passion for data science and am on my way to becoming an experie
 - email-  mreddima@gmu.edu
 - [linkedin](https://www.linkedin.com/in/moulisha-r-240679228/)
 
-## Technical Skills
-
-- **Methodologies**:	Agile/SCRUM, SDLC, Waterfall
-- **Programming**:	Python, R, SQL, SAS, Scala, Java, C, C++, Excel VBA, HTML, JavaScript
-      **Python Libraries**: Pandas, Matplotlib, scikit-learn, TensorFlow  
-- **Machine learning**:	Linear & Logistic Regression, K-Means, Decision Tree, Random Forest, Gradient Boosting
-- **ETL Tools**:	Power Query, Informatica, Azure Data Factory
-- **Data Visualization**:	Microsoft Excel, Power BI, Tableau, QlikView, Google Analytics, SAP BusinessObjects, Google Sheets
-- **Databases**:	MySql, MS SQL Server, MS Access, PostgreSQL, MongoDB, Snowflake, Databricks
-- **Cloud Technologies**:	Microsoft Azure, AWS, Google Cloud Platform
-- **Version Control**:	Git, Azure DevOps
-
-## Education
-
-- Master's in Computer Science - George Mason University, 2023
-- Bachelor's in Computer Science and Engineering - Matrusri Engineering College, 2020
-
 ## Professional Experience
 
 In my **Four years as an Analyst**, I've developed a deep passion for data management and analysis. My journey began at Exert Infotech, where I honed my skills in data visualization using Tableau and MS Access. I excelled in utilizing MS Excel for complex data analysis, driving informed decisions and achieving a 90% client satisfaction rate.
