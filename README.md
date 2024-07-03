@@ -24,9 +24,10 @@ Currently, as a **Database Analyst at Guardian Fueling Technologies**, my respon
 - Demonstrated the potential of the project in the healthcare domain, offering early intervention possibilities and improved healthcare outcomes.
 
 ### DiseaseDetective: Unveiling Hidden Patterns in Health Records
-- Developed an unsupervised K-Means clustering model to identify patterns in health records, enhancing my healthcare analytics expertise.
-- Improved health risk profiling accuracy through data exploration and model refinement, targeting preventive care.
-- Advanced personal capabilities in health data analytics, establishing a foundational knowledge in predictive healthcare models.
+- Utilized advanced Natural Language Processing (NLP), classification algorithms, and data mining techniques to analyze and uncover hidden patterns in synthetic healthcare records.
+- Identified high-risk patient profiles and discovered significant patterns and anomalies, enhancing the predictive accuracy and understanding of healthcare data, targeting preventive care.
+- This project has the potential to improve patient care by enabling healthcare providers, including those in remote or underserved areas, to identify high-risk individuals, predict disease     
+  outbreaks, and make informed, data-driven decisions, ultimately improving patient outcomes and resource allocation.
   
 ### [Forecast bikeshare demand using time series models in R](https://www.dropbox.com/scl/fi/cvlp1nmibj4wj0423n491/Forecast_bikeshare_demand.pdf?rlkey=vmj86pmg306mtxsoyyh3g6k8q&dl=0)
 - Leveraged automated and manual time series models to precisely predict daily bike rental demand.
