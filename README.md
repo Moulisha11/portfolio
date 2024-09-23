@@ -19,20 +19,35 @@ Currently, as a **Database Analyst at Guardian Fueling Technologies**, my respon
 ## Projects
 
 ### [Stroke Prediction Model and Deployment with Shiny](https://www.dropbox.com/scl/fi/3dtvuexqvhopdfrbvt7ke/Store_prediction_model.pdf?rlkey=sfg0ewecb7g05okwevy0140wb&dl=0)
+
 - Developed a comprehensive R-based solution for predicting stroke risk by building, training, and evaluating a Random Forest classification model. 
 - Created an interactive Shiny web application that enables users to input patient data and receive real-time stroke risk predictions. 
 - Demonstrated the potential of the project in the healthcare domain, offering early intervention possibilities and improved healthcare outcomes.
 
 ### DiseaseDetective: Unveiling Hidden Patterns in Health Records
+
 - Utilized advanced Natural Language Processing (NLP), classification algorithms, and data mining techniques to analyze and uncover hidden patterns in synthetic healthcare records.
 - Identified high-risk patient profiles and discovered significant patterns and anomalies, enhancing the predictive accuracy and understanding of healthcare data, targeting preventive care.
 - This project has the potential to improve patient care by enabling healthcare providers, including those in remote or underserved areas, to identify high-risk individuals, predict disease     
   outbreaks, and make informed, data-driven decisions, ultimately improving patient outcomes and resource allocation.
+
+### Image Segmentation Using Graph Cuts
+
+- Applied the Ford-Fulkerson algorithm to perform graph cuts for segmenting images, commonly used in fields like medical imaging and computer vision.
+- Constructed a graph where each pixel is represented as a node, applying optimization techniques to separate regions by minimizing the cost of cuts.
+- Successfully segmented images by accurately identifying boundaries, enhancing accuracy in image analysis and diagnostic applications.
   
 ### [Forecast bikeshare demand using time series models in R](https://www.dropbox.com/scl/fi/cvlp1nmibj4wj0423n491/Forecast_bikeshare_demand.pdf?rlkey=vmj86pmg306mtxsoyyh3g6k8q&dl=0)
+
 - Leveraged automated and manual time series models to precisely predict daily bike rental demand.
 - Improved resource allocation and service planning with precise forecasts, optimizing bike-share operations.
 - Meticulous data exploration, robust modeling, and emphasis on stationarity and seasonality contributed to successful forecasting in this project.
+
+### [Bitcoin Price Prediction Using Random Forest](https://www.dropbox.com/scl/fi/6du2c6hge41cvyx7n4xxw/Team_10-SOC_Final_Project_Report.pdf?rlkey=bcyakprhi4bq2njhiqtq9jxaa&st=tvwqvpdl&dl=0)
+
+- Trained and optimized a Random Forest Regressor by tuning hyperparameters like the number of trees and maximum depth to achieve high prediction accuracy.
+- Evaluated model performance using time-series cross-validation, outperforming other methods such as linear regression in predicting Bitcoin price trends.
+- Developed a Flask-based dashboard for users to input dates and visualize predicted vs. actual Bitcoin prices, enabling informed decision-making.
 
 ### [Azure ML Studio Machine Learning Pipelines](https://www.dropbox.com/scl/fi/84rdeelygwfwtrgqqthg9/Machine-Learning-Pipeline-with-Azure-ML-Studio.pdf?rlkey=4d0usa3ig5hk9w595gq0qlb9f&dl=0) 
 
