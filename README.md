@@ -80,6 +80,12 @@ Currently, as a **Database Analyst at Guardian Fueling Technologies**, my respon
 - Effectively visualized algorithm performance using Matplotlib, highlighting data visualization abilities.
 
 
+## Publications
+
+- A Survey on Emerging Technologies (RTOS) in Healthcare Devices, Challenges and Future Trends [Check it out!](https://www.dropbox.com/scl/fi/cngsnj448q72v7o4c1667/Survey_Paper_Final.pdf?rlkey=tdoo5dyv1lumvs80040ne172r&dl=0)
+  
+- Color Recognition Model for Banana Ripeness Classification [Check it out!](https://www.dropbox.com/scl/fi/268f50x5fieqh8l3ukytq/color_recgonition.pdf?rlkey=t90nhk08m4rs8qu47k99d1wyy&dl=0)
+
 ## Certifications
 
 - [Databases and SQL for Data Science with Python](https://coursera.org/verify/47S38TRTTLQB)
@@ -88,10 +94,8 @@ Currently, as a **Database Analyst at Guardian Fueling Technologies**, my respon
 - [Data Warehousing and BI Analytics](https://coursera.org/verify/SXXW8RGJP4ZV)
 - [Google Data Analytics Specialization](https://www.coursera.org/account/accomplishments/specialization/certificate/DH6ZYPLW9BRH)
 
-## Publications
+## Professional Affiliations
 
-- A Survey on Emerging Technologies (RTOS) in Healthcare Devices, Challenges and Future Trends [Check it out!](https://www.dropbox.com/scl/fi/cngsnj448q72v7o4c1667/Survey_Paper_Final.pdf?rlkey=tdoo5dyv1lumvs80040ne172r&dl=0)
-  
-- Color Recognition Model for Banana Ripeness Classification [Check it out!](https://www.dropbox.com/scl/fi/268f50x5fieqh8l3ukytq/color_recgonition.pdf?rlkey=t90nhk08m4rs8qu47k99d1wyy&dl=0)
-
-
+- Student Member, Institute of Electrical and Electronics Engineers (**IEEE**)
+- Student Member, Association for Computing Machinery (**ACM**)
+    - Special Interest Group on Knowledge Discovery and Data Mining (**SIGKDD**)
