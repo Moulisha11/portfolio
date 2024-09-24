@@ -8,6 +8,12 @@ I have a strong passion for data science and am on my way to becoming an experie
 - email-  mreddima@gmu.edu
 - [linkedin](https://www.linkedin.com/in/moulisha-r-240679228/)
 
+## Research Interests
+
+**Data Analytics -** Exploring innovative methods for analyzing large-scale, time-varying, and heterogeneous datasets, particularly in the domains of health informatics and smart cities. Focused on applying machine learning, AI, and optimization techniques to identify patterns, make predictive decisions, and address complex real-world problems.
+
+**Human Behavior, Perception, and Cognition -** Investigating the interaction between humans and technology through computational modeling, human-centered design, and the ethical implications of algorithms. Aiming to improve user experiences, trust in technology, and decision-making processes in fields like socio-technical systems, social computing, and data visualization.
+
 ## Professional Experience
 
 In my **Four years as an Analyst**, I've developed a deep passion for data management and analysis. My journey began at Exert Infotech, where I honed my skills in data visualization using Power BI and SQL queries. I excelled in utilizing MS Excel for complex data analysis, driving informed decisions and achieving a 90% client satisfaction rate.
