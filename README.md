@@ -16,7 +16,7 @@ I have a strong passion for data science and am on my way to becoming an experie
 
 ## Professional Experience
 
-In my **four years as an Analyst**, I've cultivated a deep passion for data management, ETL processes, and data analysis. My journey began at **Exert Infotech**, where I honed my skills in data visualization using Power BI and SQL. I excelled in utilizing MS Excel for complex data analysis, delivering actionable insights that resulted in a **90% client satisfaction rate**.
+In my **four years as an Analyst**, I've cultivated a deep passion for data management, ETL processes, and data analysis. My journey began at **Perfexion Information Technologies**, where I honed my skills in data visualization using Power BI and SQL. I excelled in utilizing MS Excel for complex data analysis, delivering actionable insights that resulted in a **90% client satisfaction rate**.
 
 My **apprenticeship** at Unum was a pivotal experience in my career. I applied **Agile methodologies** to enhance ETL pipelines using Informatica, Spark, and Scala, reducing data processing errors by 50%. Additionally, I contributed to bolstering data security through Python scripts. My proficiency in Power BI and Azure Data Factory helped increase **operational efficiency by 40%**, as I played a key role in optimizing data workflows and integration strategies.
 
