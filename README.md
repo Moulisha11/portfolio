@@ -7,6 +7,7 @@ I have a strong passion for data science and am on my way to becoming an experie
 
 - **email -** mreddimasu0527@gmail.com
 - [LinkedIn](https://www.linkedin.com/in/moulisha-r-240679228/)
+- [Medium Blog](https://medium.com/@moulishareddimasu9927)
 
 ## Research Interests
 
