@@ -7,7 +7,7 @@ I have a strong passion for data science and am on my way to becoming an experie
 
 - **email -** mreddimasu0527@gmail.com
 - [LinkedIn](https://www.linkedin.com/in/moulisha-r-240679228/)
-- [Medium Blog](https://medium.com/@moulishareddimasu9927)
+- [Medium Blog](https://medium.com/@rmoulisha)
 
 ## Research Interests
 
@@ -89,6 +89,7 @@ Currently, as a **Database Analyst at Guardian Fueling Technologies**, I oversee
 
 ## Certifications
 
+- [Microsoft Certified: Azure Data Engineer Associate ](https://learn.microsoft.com/en-us/users/moulishareddimasu-7355/credentials/7244503b053dee33?ref=https%3A%2F%2Fwww.linkedin.com%2F)
 - [Databases and SQL for Data Science with Python](https://coursera.org/verify/47S38TRTTLQB)
 - [Linux Commands and Shell Scripting](https://coursera.org/verify/2H9BKNDDYKZW)
 - [ETL and Data Pipelines with Shell, Airflow and Kafka](https://coursera.org/verify/AX8XLNZA6D8B)
