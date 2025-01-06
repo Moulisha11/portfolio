@@ -11,9 +11,10 @@ I have a strong passion for data science and am on my way to becoming an experie
 
 ## Research Interests
 
-**Data Analytics -** Exploring innovative methods for analyzing large-scale, time-varying, and heterogeneous datasets, particularly in the domains of health informatics and smart cities. Focused on applying machine learning, AI, and optimization techniques to identify patterns, make predictive decisions, and address complex real-world problems.
+- **Optimization and Machine Learning:** Pioneering mathematical optimization techniques (linear, nonlinear, and stochastic) to address complex challenges in resource allocation, scheduling, and predictive modeling with innovative solutions.
+- **Human-Centered Systems:** Bridging the gap between technology and people through computational modeling, human-centered design, and ethical algorithm development to enhance user experiences, trust in technology, and decision-making in socio-technical systems and data visualization.
+- **Health Informatics and Smart Cities:** Leveraging advanced analytics to optimize emergency healthcare systems for faster response times and conceptualizing intelligent urban systems that promote sustainability, accessibility, and improve quality of life for diverse communities.
 
-**Human Behavior, Perception, and Cognition -** Investigating the interaction between humans and technology through computational modeling, human-centered design, and the ethical implications of algorithms. Aiming to improve user experiences, trust in technology, and decision-making processes in fields like socio-technical systems, social computing, and data visualization.
 
 ## Professional Experience
 
