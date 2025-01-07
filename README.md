@@ -90,10 +90,12 @@ Currently, as a **Database Analyst at Guardian Fueling Technologies**, I oversee
 ## Publications
 
 - A Survey on Emerging Technologies (RTOS) in Healthcare Devices, Challenges and Future Trends [Check it out!](https://www.dropbox.com/scl/fi/cngsnj448q72v7o4c1667/Survey_Paper_Final.pdf?rlkey=tdoo5dyv1lumvs80040ne172r&dl=0)
+
 Conducted a comprehensive survey on real-time operating systems in healthcare devices, identifying key challenges and future research directions.
   
 - Color Recognition Model for Banana Ripeness Classification [Check it out!]
 (https://www.dropbox.com/scl/fi/268f50x5fieqh8l3ukytq/color_recgonition.pdf?rlkey=t90nhk08m4rs8qu47k99d1wyy&dl=0)
+
 Developed a machine learning model using color recognition to classify the ripeness of bananas, aiming to optimize supply chain processes in agriculture.
 
 ## Certifications
