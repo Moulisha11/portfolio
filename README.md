@@ -44,7 +44,7 @@ Currently, as a **Database Analyst at Guardian Fueling Technologies**, I oversee
 - Constructed a graph where each pixel is represented as a node, applying optimization techniques to separate regions by minimizing the cost of cuts.
 - This project improved diagnostic accuracy by effectively delineating regions of interest, demonstrating the role of optimization in image analysis.
   
-### [Forecast bikeshare demand using time series models in R](https://www.dropbox.com/scl/fi/cvlp1nmibj4wj0423n491/Forecast_bikeshare_demand.pdf?rlkey=vmj86pmg306mtxsoyyh3g6k8q&dl=0)
+### [Forecast bikeshare demand using time series models in R](https://www.dropbox.com/scl/fi/2xdmje55yb71pwtyf1g80/Forecast_bikeshare_demand.pdf?rlkey=hsehc5gv9rp4ealvuearsuqv6&st=zutthys2&dl=0)
 
 - Developed automated and manual time series models in R to predict daily bike rental demand, incorporating weather patterns and traffic trends along with seasonality for robust forecasting.
 - The insights from this project informed resource allocation and service planning, optimizing operations for urban mobility solutions.
