@@ -32,11 +32,11 @@ Currently, as a **Database Analyst at Guardian Fueling Technologies**, I oversee
 - The interactive Shiny app enables early intervention by providing real-time stroke risk predictions, empowering healthcare providers to improve patient outcomes.
 - Demonstrated the potential of the project in the healthcare domain, offering early intervention possibilities and improved healthcare outcomes.
 
-### DiseaseDetective: Unveiling Hidden Patterns in Health Records
+### [DiseaseDetective: Unveiling Hidden Patterns in Health Records](https://www.dropbox.com/scl/fi/dr1rjcijnhtqoqc25csuw/DiseaseDetective.pdf?rlkey=eqpzegvn0yal02s03o1o03qnt&st=l6jcpg5i&dl=0)
 
-- Applied advanced NLP and classification algorithms to analyze synthetic healthcare records, uncovering hidden patterns and anomalies critical for preventive care.
-- Identified high-risk patient profiles and discovered significant patterns and anomalies, enhancing the predictive accuracy and understanding of healthcare data, targeting preventive care.
-- This project has the potential to improve patient care by enabling healthcare providers, including those in remote or underserved areas, to identify high-risk individuals, predict disease outbreaks, and make informed, data-driven decisions, ultimately improving patient outcomes and resource allocation.
+- Developed an advanced NLP and classification pipeline to analyze synthetic healthcare records, identifying high-risk patients and uncovering critical patterns for preventive care.
+- Applied machine learning techniques to enhance predictive accuracy, revealing key risk factors and improving the interpretability of healthcare data.
+- This project demonstrates the potential to support healthcare providers—especially in remote or underserved areas—by facilitating early risk identification, optimizing resource allocation, and improving patient outcomes through data-driven decision-making.
 
 ### Image Segmentation Using Graph Cuts
 
