@@ -5,7 +5,7 @@
 
 I have a strong passion for data science and am on my way to becoming an experienced professional in the field. My experience with data has been characterized by a continuous pursuit of knowledge and a focus on turning data into practical insights. I find joy in tackling challenging issues, love delving into complex problems, and am always keen to delve into the latest advancements in data science field.
 
-- **email -** mreddimasu0527@gmail.com
+- (mreddimasu0527@gmail.com)
 - [LinkedIn](https://www.linkedin.com/in/moulisha-r-240679228/)
 - [Medium Blog](https://medium.com/@rmoulisha)
 
