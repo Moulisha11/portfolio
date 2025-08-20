@@ -19,15 +19,6 @@ I believe that a strong analytical mindset is the key to navigating the evolving
 - **Human-Centered Systems:** Integrating computational modeling and human-centered design to bridge the gap between technology and user experience, emphasizing ethical algorithm development to enhance trust and decision-making in socio-technical systems.
 - **Health Informatics and Smart Cities:** Utilizing advanced analytics to optimize emergency healthcare systems for improved response times and designing intelligent urban infrastructures that promote sustainability, accessibility, and enhance quality of life for diverse populations.
 
-
-## Professional Experience
-
-In my **four years as an Analyst**, I've cultivated a deep passion for data management, ETL processes, and data analysis. My journey began at **Perfexion Information Technologies**, where I honed my skills in data visualization using Power BI and SQL. I excelled in utilizing MS Excel for complex data analysis, delivering actionable insights that resulted in a **90% client satisfaction rate**.
-
-My **apprenticeship** at Unum was a pivotal experience in my career. I applied **Agile methodologies** to enhance ETL pipelines using Informatica, Spark, and Scala, reducing data processing errors by 50%. Additionally, I contributed to bolstering data security through Python scripts. My proficiency in Power BI and Azure Data Factory helped increase **operational efficiency by 40%**, as I played a key role in optimizing data workflows and integration strategies.
-
-Currently, as a **Database Analyst at Guardian Fueling Technologies**, I oversee the data infrastructure to ensure seamless data management and processing. My role involves creating and managing automated data import/export jobs, optimizing databases with SQL Server, writing complex queries, and generating reports using SSRS and Power BI. I also develop small-scale applications using JavaScript, Python, and Power Apps, deploying them via Azure to meet internal business needs. Additionally, I integrate data from external APIs, leverage data modeling techniques, and contribute to database performance enhancements through monitoring and backup strategies, ensuring reliability and scalability.
-
 ## Projects
 
 ### [Stroke Prediction Model and Deployment with Shiny](https://www.dropbox.com/scl/fi/3dtvuexqvhopdfrbvt7ke/Store_prediction_model.pdf?rlkey=sfg0ewecb7g05okwevy0140wb&dl=0)
