@@ -51,6 +51,11 @@ I believe that a strong analytical mindset is the key to navigating the evolving
 - Conducted scenario testing and validation, achieving a 20% reduction in response delays, demonstrating the potential of data-driven optimization in critical resource allocation.
 - Highlighted the adaptability of the model for broader domains, such as disaster management and urban planning, providing a scalable solution for high-impact challenges.
 
+### Funnel & Cohort demo
+
+- Snowflake-ready SQL + Jupyter notebook showing event funnels, cohort retention, and time-windowed A/B readouts. Synthetic data; includes PNG readout and runnable notebook.
+(https://github.com/Moulisha11/funnels-snowflake-demo/tree/main)
+
 ### [Bitcoin Price Prediction Using Random Forest](https://www.dropbox.com/scl/fi/6du2c6hge41cvyx7n4xxw/Team_10-SOC_Final_Project_Report.pdf?rlkey=bcyakprhi4bq2njhiqtq9jxaa&st=tvwqvpdl&dl=0)
 
 - Developed and optimized a Random Forest Regressor to predict Bitcoin price trends, achieving superior performance through hyperparameter tuning and cross-validation.
